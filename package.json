@@ -11,7 +11,7 @@
 		"cors": "^2.8.5",
 		"express": "^4.12.4",
 		"mongodb": "^3.2.3",
-		"mongoose": "^5.5.5",
+		"mongoose": "^5.7.5",
 		"simple-short": "^1.0.7"
 	},
 	"engines": {
